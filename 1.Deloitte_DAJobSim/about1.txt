@@ -1,0 +1,3 @@
+In Jan'25, I completed a Deloitte Data Analysis job simulation in which I:
+Created a data dashboard using Tableau 
+Used Excel to classify data and draw business conclusions
