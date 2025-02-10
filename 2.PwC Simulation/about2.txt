@@ -1,0 +1,4 @@
+I just completed PwC Switzerland's Power BI on Forage. In the simulation I:
+Strengthened my Power BI skills by creating dashboards that effectively conveyed KPIs and addressed client data visualization needs.
+Analyzed HR data to identify gender balance issues at the executive level, providing data-driven insights and actionable recommendations.
+
