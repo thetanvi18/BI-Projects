@@ -2,3 +2,6 @@ Customer Behaviour Analysis
 -Tech stack: Python, SQL(PostGRESQL), PowerBI
 
 Steps:
+1)Data cleaning & preprocessing using Python
+2)Querying & insights generation using SQL(PostGRESQL)
+3)Dashboard with creating measures, insightful visuals of different KPIs in PowerBI
