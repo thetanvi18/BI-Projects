@@ -1,0 +1,4 @@
+Customer Behaviour Analysis
+-Tech stack: Python, SQL(PostGRESQL), PowerBI
+
+Steps:
